@@ -21,3 +21,5 @@ testdata/rapid/
 mutago-report.html
 mutago-agentic.json
 mutago-gitlab.json
+config.bat
+node_modules
